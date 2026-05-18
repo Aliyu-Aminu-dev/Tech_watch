@@ -11,8 +11,7 @@
 
         <!-- Links -->
         <div class="hidden md:flex space-x-6 items-center">
-          <router-link to="/" class="text-gray-700 hover:text-blue-600">Home</router-link>
-          <router-link to="/blog" class="text-gray-700 hover:text-blue-600">Blog</router-link>
+          <router-link to="/" class="text-gray-700 hover:text-blue-600">Blog</router-link>
           <router-link to="/about" class="text-gray-700 hover:text-blue-600">About</router-link>
         </div>
 

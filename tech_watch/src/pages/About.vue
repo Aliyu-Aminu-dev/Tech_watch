@@ -1,3 +1,6 @@
+<script setup>
+import Footer from '../components/Footer.vue'
+</script>
 <template>
   <div class="max-w-4xl mx-auto px-6 py-12">
     <h1 class="text-3xl font-bold text-gray-800 mb-6">About Us</h1>
@@ -10,4 +13,6 @@
       performant, and accessible web application.
     </p>
   </div>
+  <!-- Footer -->
+    <Footer />
 </template>
